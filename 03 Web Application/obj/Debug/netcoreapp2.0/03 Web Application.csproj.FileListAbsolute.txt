@@ -1,0 +1,14 @@
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\bin\Debug\netcoreapp2.0\03 Web Application.deps.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\bin\Debug\netcoreapp2.0\03 Web Application.runtimeconfig.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\bin\Debug\netcoreapp2.0\03 Web Application.runtimeconfig.dev.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\bin\Debug\netcoreapp2.0\03 Web Application.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\bin\Debug\netcoreapp2.0\03 Web Application.pdb
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\obj\Debug\netcoreapp2.0\03 Web Application.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\obj\Debug\netcoreapp2.0\03 Web Application.csproj.CoreCompileInputs.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\obj\Debug\netcoreapp2.0\03 Web Application.AssemblyInfoInputs.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\obj\Debug\netcoreapp2.0\03 Web Application.AssemblyInfo.cs
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\obj\Debug\netcoreapp2.0\03 Web Application.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\ASP.NET Core 2.0 Project Templates\03 Web Application\obj\Debug\netcoreapp2.0\03 Web Application.pdb
