@@ -6,5 +6,6 @@
   <PropertyGroup>
     <ActiveDebugProfile>_01_Empty</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>FolderProfile</NameOfLastUsedPublishProfile>
+    <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>

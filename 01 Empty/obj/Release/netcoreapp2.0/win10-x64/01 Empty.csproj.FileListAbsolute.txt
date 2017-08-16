@@ -1,0 +1,16 @@
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\x86\e_sqlite3.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\x64\e_sqlite3.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\01 Empty.exe
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\01 Empty.deps.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\01 Empty.runtimeconfig.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\01 Empty.runtimeconfig.dev.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\01 Empty.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\bin\Release\netcoreapp2.0\win10-x64\01 Empty.pdb
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\obj\Release\netcoreapp2.0\win10-x64\01 Empty.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\obj\Release\netcoreapp2.0\win10-x64\01 Empty.csproj.CoreCompileInputs.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\obj\Release\netcoreapp2.0\win10-x64\01 Empty.AssemblyInfoInputs.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\obj\Release\netcoreapp2.0\win10-x64\01 Empty.AssemblyInfo.cs
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\obj\Release\netcoreapp2.0\win10-x64\01 Empty.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\GitHub\ASPNETCore2PreviewTemplates\01 Empty\obj\Release\netcoreapp2.0\win10-x64\01 Empty.pdb
